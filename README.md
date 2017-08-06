@@ -4,7 +4,8 @@ Enums are often recommended as a way to represent status fields.  Here the statu
 
 In the example produced by this repo, each of the order statuses is represented by an enum.
 
-![Example](doc/example.png?raw=true "Example")
+![Example](https://github.com/veronicacannon/enums/blob/master/doc/example.PNG?raw=true "Example")
+
 
 ## instructions for quick demo
 1. Create a Rails 4.1 app
