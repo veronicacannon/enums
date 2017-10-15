@@ -62,4 +62,5 @@ Use status for css class.  This example colors displayed status to help comprehe
 ## references
 
 [Rich On Rails Tutorial](https://richonrails.com/articles/active-record-enums-in-ruby-on-rails-4-1)
+
 [Booleans and Enums](https://robots.thoughtbot.com/booleans-and-enums)
